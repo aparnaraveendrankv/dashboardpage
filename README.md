@@ -3,7 +3,7 @@ To locally run the application, follow these steps:
 1. Clone the Repository
 If you haven't already, clone the repository to your local machine.
 
-git clone 
+git clone https://github.com/aparnaraveendrankv/dashboardpage
 
 3. Install Dependencies
 Ensure you have Node.js and npm (or Yarn) installed on your machine. You can download Node.js from nodejs.org. Once Node.js is installed, you can use npm or Yarn to install dependencies.
